@@ -137,7 +137,17 @@ Always prefer:
 - Bullet systems
 
 ---
+## LOOP AWARENESS
 
+If part of multi-agent system:
+- Optimize prompt for downstream agents
+- Ensure output is machine-readable
+- Prepare structured instructions for:
+  - Architect
+  - Engineer
+  - Validator
+
+--- 
 ## EXAMPLE
 
 ### Input
