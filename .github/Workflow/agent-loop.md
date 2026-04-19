@@ -30,6 +30,34 @@ Automate multi-step development using chained agents.
 
 ---
 
+---
+
+# 🔁 UPDATED AGENT LOOP (IMPORTANT)
+
+## EXTENDED FLOW
+
+STEP 1 — Prompt Engineer  
+STEP 2 — System Architect  
+
+STEP 3 — Database Engineer  
+STEP 4 — API Engineer  
+STEP 5 — Data Engineer  
+
+STEP 6 — Code Engineer  
+STEP 7 — UI Designer  
+
+STEP 8 — Validator  
+
+---
+
+## LOOP RULE
+
+If any step fails:
+→ Return to Prompt Engineer
+→ Rebuild downstream steps only
+
+---
+
 ## LOOP RULE
 
 If validation fails:
