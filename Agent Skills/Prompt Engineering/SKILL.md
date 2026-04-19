@@ -152,6 +152,42 @@ When used in agents:
 
 ---
 
+### Verification Block
+
+[SELF-CHECK]
+- Did output follow format? (YES/NO)
+- Did it meet constraints? (YES/NO)
+- If NO → fix automatically
+
+---
+
+### Execution Block
+
+[MODE]
+- FAST → minimal reasoning
+- BALANCED → default
+- DEEP → multi-step + validation
+
+---
+
+### Stop Conditions
+
+[STOP CONDITIONS]
+- Task is complete
+- All constraints satisfied
+- Output validated
+
+---
+
+### Tool Awareness 
+
+[TOOLS]
+- Use tools when needed
+- Explain action before using tool
+
+---
+
+
 ## Example
 
 ### Input
